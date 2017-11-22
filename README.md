@@ -1,2 +1,2 @@
 # Surface-Scratch-detection
-We are Binary Classification,
+Binary Classification,
